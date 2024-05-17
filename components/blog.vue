@@ -1,5 +1,5 @@
 <template>
-  <div class="max-w-screen-lg mx-auto">
+  <div class="max-w-screen-lg mx-auto my-32">
     <main class="mt-10" v-if="loading">
       <p>Loading...</p>
     </main>
