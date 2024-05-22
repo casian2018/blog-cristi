@@ -29,7 +29,7 @@
           </div>
           
         </div>
-        <a class="text-xl font-semibold hover:bg-gray-100 p-2 rounded-xl">← Vezi si alte Bloguri</a>
+        <a class="text-xl font-semibold hover:bg-gray-100 p-2 rounded-xl" href="/blog-list">← Vezi si alte Bloguri</a>
       </div>
     </main>
     <main v-else>
